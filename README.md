@@ -73,6 +73,9 @@
         └── workflows/
             └── test.yml
     ```
+    
+<img width="1274" height="40" alt="изображение" src="https://github.com/user-attachments/assets/746c2ce1-acd1-47d0-ac69-c4c83e51757a" />
+
 1. Генерация структуры по описанию (рекомендую использовать ИИ)
     ```text
     Описание структуры:
@@ -84,7 +87,9 @@
     - В tests/unit: файл app.test.js
     - В tests/e2e: файл flow.test.js
     ```
-1. Выполнить команды из [примеров](/content/Bash/BashCLI.md) - сохранить их вывод в скриншотах, кроме сетевых команд
+
+    <img width="1688" height="40" alt="изображение" src="https://github.com/user-attachments/assets/7c6f7ccd-ffd2-4ba4-a45c-8644d78d0802" />
+
 
 
 > ### Результаты с содержанием выражений поместить в README.md, запушить и прислать мне ссылку
