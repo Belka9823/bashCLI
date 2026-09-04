@@ -17,6 +17,7 @@
     ├── css/
     └── js/
     ```
+<img width="612" height="29" alt="изображение" src="https://github.com/user-attachments/assets/d91132df-0789-4374-a746-416ffcf0c823" />
 
 1. Двухуровневая структура интернет-магазина
     ```text
